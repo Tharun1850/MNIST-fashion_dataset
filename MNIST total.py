@@ -1,5 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
 
 # In[2]:
 
@@ -112,9 +110,4 @@ plt.colorbar()
 plt.grid(False)
 plt.show()
 
-
-# In[ ]:
-
-
-#VERIFYING THE PREDICTIONS
 
